@@ -1,3 +1,3 @@
 # vite-tsyringe
 
-Vue と TypeScript で tsyringe を使うサンプルです。
+Vue と TypeScript で DIコンテナを利用するサンプルです
